@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oi pessoal, sou estudante de Engenharia pela UnB e estou aprendendo a trabalhar com programação e dados, estou realizando o curso da IBM e me aperfeiçoando para meu estágio, já tenhho um código que logo adicionarei aqui
 
 <!--
 **jaspionleo123/jaspionleo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
